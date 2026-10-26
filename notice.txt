@@ -1,0 +1,4 @@
+id: 20261026-164221
+title: Test notice
+
+If you can read this, notices from GitHub reach Deskmate.
