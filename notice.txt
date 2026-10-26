@@ -1,0 +1,4 @@
+id: 20261026-165125
+title: Test notice
+
+This should stay until you clear it.
